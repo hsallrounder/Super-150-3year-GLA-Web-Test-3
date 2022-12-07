@@ -21,3 +21,5 @@ Deploy your website and provide the website link in google forms. An additional 
 The link to the google form is: Click Here For Submission Form
 In case click doesn't work you can copy paste the following link in your browser for submission of the project:
 https://forms.gle/HfyttmzyxXyXm4DT7
+
+Live Link: https://poetic-palmier-6a5e6b.netlify.app/
